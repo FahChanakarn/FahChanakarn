@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=50&lines=🌸+Building+Beautiful+Digital+Experiences;💖+Passionate+About+Clean+Code;✨+Currently+Crafting+IT+Project+Systems;🚀+Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FahChanakarn&style=for-the-badge&color=FF69B4&label=Profile+Views)
-![Coding Since](https://img.shields.io/badge/Coding%20Since-2022-E91E63?style=for-the-badge&logo=calendar&logoColor=white)
 ![Open For Work](https://img.shields.io/badge/Open%20For-Opportunities-FF1493?style=for-the-badge&logo=briefcase&logoColor=white)
 
 </div>
