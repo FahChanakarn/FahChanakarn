@@ -1,24 +1,17 @@
 <div align="center">
 
-<!-- Stunning Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF69B4,25:FF1493,50:E91E63,75:C2185B,100:880E4F&height=250&section=header&text=Chanakarn%20Sa-nguanpong&fontSize=40&fontColor=white&animation=fadeIn&fontAlignY=50&desc=✨%20Frontend%20Developer%20%26%20Creative%20Coder%20✨&descSize=18&descAlignY=70" />
+# 🌸 Chanakarn Sa-nguanpong 🌸
+### ✨ Frontend Developer & Creative Coder ✨
 
-<!-- Animated Typing with Pink Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=80&lines=🌸+Building+Beautiful+Digital+Experiences;💖+Passionate+About+Clean+Code+%26+Design;✨+Currently+Crafting+IT+Project+Systems;🚀+Always+Learning+%26+Growing" alt="Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=50&lines=🌸+Building+Beautiful+Digital+Experiences;💖+Passionate+About+Clean+Code;✨+Currently+Crafting+IT+Project+Systems;🚀+Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
-<!-- Enhanced Status Badges -->
-<p>
-<img src="https://custom-icon-badges.herokuapp.com/badge/Profile%20Views-000+-FF69B4?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views"/>
-<img src="https://custom-icon-badges.herokuapp.com/badge/Coding%20Since-2022-E91E63?style=for-the-badge&logo=calendar&logoColor=white" alt="Coding Since"/>
-<img src="https://custom-icon-badges.herokuapp.com/badge/Open%20For-Opportunities-FF1493?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open for Work"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=FahChanakarn&style=for-the-badge&color=FF69B4&label=Profile+Views)
+![Coding Since](https://img.shields.io/badge/Coding%20Since-2022-E91E63?style=for-the-badge&logo=calendar&logoColor=white)
+![Open For Work](https://img.shields.io/badge/Open%20For-Opportunities-FF1493?style=for-the-badge&logo=briefcase&logoColor=white)
 
 </div>
 
 ---
-
-<!-- Beautiful Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 🌸 About Me
 
@@ -49,49 +42,35 @@ I'm a passionate **Frontend Developer** with a love for creating stunning, user-
 
 ---
 
-<!-- Tech Stack Section -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
 ## 💖 My Tech Stack
 
 <div align="center">
 
 ### 🎨 Frontend Magic
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-E91E63?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-C2185B?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E91E63?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-C2185B?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend Power
-<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-FF1493?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-E91E63?style=for-the-badge&logo=mysql&logoColor=white"/>
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-FF1493?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-E91E63?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/VS%20Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-C2185B?style=for-the-badge&logo=postman&logoColor=white"/>
+![VS Code](https://img.shields.io/badge/VS%20Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-E91E63?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-C2185B?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🌸 Currently Learning
-<img src="https://skillicons.dev/icons?i=react,nodejs,figma&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-FF1493?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-E91E63?style=for-the-badge&logo=figma&logoColor=white"/>
+![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF1493?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-E91E63?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
-
-<!-- Projects Section -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 🚀 Featured Projects
 
@@ -148,9 +127,6 @@ I'm a passionate **Frontend Developer** with a love for creating stunning, user-
 
 ---
 
-<!-- Learning Journey -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
 ## 🌱 Learning Journey
 
 <div align="center">
@@ -168,9 +144,6 @@ I'm a passionate **Frontend Developer** with a love for creating stunning, user-
 </div>
 
 ---
-
-<!-- Connect Section -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 💌 Let's Connect & Collaborate!
 
@@ -203,15 +176,12 @@ I'm a passionate **Frontend Developer** with a love for creating stunning, user-
 
 ---
 
-<!-- Footer -->
 <div align="center">
 
 ### 💖 **"Code is poetry written in logic"** 💖
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,25:FF1493,50:E91E63,75:C2185B,100:880E4F&height=120&section=footer&animation=twinkling" />
-
 **🌸 Thanks for visiting my profile! Don't forget to star ⭐ my repositories if you find them interesting! 🌸**
 
-<img src="https://komarev.com/ghpvc/?username=FahChanakarn&style=for-the-badge&color=FF69B4&label=Profile+Views" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=FahChanakarn&style=for-the-badge&color=FF69B4&label=Profile+Views)
 
 </div>
