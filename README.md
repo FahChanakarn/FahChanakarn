@@ -74,7 +74,7 @@ I'm a passionate **Frontend Developer** with a love for creating stunning, user-
 ### 🔍 **IT Project Retrieval System**
 **`Main Project • 2025`**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FahChanakarn&repo=it-project-retrieval-system&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F8BBD9&icon_color=AED6F1&text_color=D2B4DE" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FahChanakarn&repo=IT-Project-Retrieval-System&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F8BBD9&icon_color=AED6F1&text_color=D2B4DE" />
 
 **💼 Technologies Used:**
 <br/>
